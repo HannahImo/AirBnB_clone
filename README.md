@@ -1,5 +1,7 @@
 Airbnb clone
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dezeen.com%2F2014%2F07%2F16%2Fairbnb-rebrand-designstudio-logo-belo%2F&psig=AOvVaw1julZF964biKgS4dB1BnQy&ust=1679170928813000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi6sKvm4_0CFQAAAAAdAAAAABAD
+
+https://static.dezeen.com/uploads/2014/07/Airbnb-rebrand-by-DesignStudio_dezeen_468_8.jpg
+
 Project Description
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
 
@@ -133,6 +135,7 @@ Technologies Used
 Language: Python3.4
 Operating System: Ubuntu 14.04 LTS (Trusty64)
 Style: PEP8 Ver. 1.7
+
 Authors
 Hannah Imo preetyann21@gmail.com
 Fatai Salahudeen oke253@gmail.com
