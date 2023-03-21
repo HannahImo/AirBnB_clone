@@ -1,0 +1,2 @@
+This is one phase of the Airbnb Clone. It is the front end of the airbnb projectwhere we use html and css to design the website. Html is the structure and CSS is the styling. In this project, we are going to learn all about this and pracice by doing.
+The Images folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons, guest icons). The Styles folder holds CSS styling files. The largest numbered style file of each category (e.g. common, footer, header, places) is most relevant to the finished product.
